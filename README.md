@@ -1,24 +1,24 @@
-# README
+# Social Animals
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Social Animals allows users to complete a quiz to find out which of five animals best represents their social style. The list of animals is intended to be child-friendly:
 
-Things you may want to cover:
+* Goose
+* Piglet
+* Bear
+* Fox
+* Frog
 
-* Ruby version
+## Authored by
 
-* System dependencies
+* Ryan McCool (@r3drighthand)
+* Gilad Shanan (@giladshanan)
 
-* Configuration
+## Dependencies
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* ruby ~> 2.5.1
+* rails ~> 5.2.2
+* pg ~> 0.18
+* puma ~> 3.11
+* slim
+* rspec-rails
+* factory-bot-rails
