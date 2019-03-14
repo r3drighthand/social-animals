@@ -10,8 +10,8 @@ Social Animals allows users to complete a quiz to find out which of five animals
 
 ## Authored by
 
-* Ryan McCool ([@r3drighthand] (https://github.com/r3drighthand))
-* Gilad Shanan ([@giladshanan] (https://github.com/giladshanan))
+* Ryan McCool [@r3drighthand](https://github.com/r3drighthand)
+* Gilad Shanan [@giladshanan](https://github.com/giladshanan)
 
 ## Dependencies
 
