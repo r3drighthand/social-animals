@@ -1,6 +1,7 @@
 Rails.application.routes.draw do
-
-  root :to => 'users#index'
+  # Need setup for index action
+  # root :to => 'users#index'
+  
   resources :user_sessions
   resources :users 
 
