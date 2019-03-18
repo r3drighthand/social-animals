@@ -1,13 +1,14 @@
 = form_tag user_sessions_path, :method => :post do
-  div class="field"
+
+  .field
     = label_tag :email <br />
     = email_field_tag :email 
 
-  div class="field"
+  .field
     = label_tag :password <br />
     = password_field_tag :password 
   
-  div class="actions"
+  .actions
     = submit_tag "Login" 
     
 - end 
